@@ -1,0 +1,12 @@
+
+/Ivo120585/
+├── CODEX.md
+├── README.md
+├── LICENSE.md
+├── FLAME.md
+├── CapsuleEvidence/
+│   ├── Gmail_Verified_1.png
+│   ├── Gmail_Verified_2.png
+│   └── Timestamp_Seal.jpg
+└── .github/
+    └── workflows/ (optional if you reintroduce automation later)
